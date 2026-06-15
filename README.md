@@ -2,10 +2,6 @@
 
 FeedbackAI is a user-friendly platform for anonymous feedback with AI-powered suggestions. Built with Next.js, Mongoose, Zod, TypeScript, and OpenAI, it prioritizes user privacy while providing intelligent recommendations. This repository contains the source code for a full-stack application featuring a custom authentication system with JWT tokens, sessions, and AI integration.
 
-## Demo
-
-- Live Preview: [https://feedback-ai-nextjs.vercel.app/](https://feedback-ai-nextjs.vercel.app/)
-
 ## Features
 
 - Custom authentication system for User Registration
