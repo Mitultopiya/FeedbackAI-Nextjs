@@ -43,7 +43,7 @@ FeedbackAI is a user-friendly platform for anonymous feedback with AI-powered su
 Clone the project
 
 ```bash
-    https://github.com/Mshandev/FeedbackAI-Nextjs.git
+    https://github.com/Mitultopiya/FeedbackAI-Nextjs.git
 ```
 Go to the project directory
 
